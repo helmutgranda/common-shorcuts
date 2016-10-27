@@ -1,4 +1,4 @@
 # VIM Shorctus
 
-<leader>t # open fuzzyfinder
+```<leader>t``` # open fuzzyfinder
 
